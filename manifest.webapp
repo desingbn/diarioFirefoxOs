@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "name": "DIARIO",
+  "description": "Prototipo de diario",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/01.jpg"
+  },
+  "developer": {
+    "name": "Grupo Pantera",
+    "url": "http:www.desingbn.es"
+  },
+  "locales": {
+  "es": {
+    "description": "Diario Personal",
+    "developer": {
+    "name": "Grupo Pantera",
+    "url": "http:www.panteras.es"
+  }
+  }
+
+  },
+  "default_locale": "es",
+  "install_allowed_from": ["https://marketplace.firefox.com"]
+
+}
